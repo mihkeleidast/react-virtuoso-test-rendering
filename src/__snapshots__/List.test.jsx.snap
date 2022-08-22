@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfiniteList correctly renders items 1`] = `
+<div>
+  <div
+    style="height: 300px;"
+  >
+    <div
+      data-test-id="virtuoso-scroller"
+      data-virtuoso-scroller="true"
+      style="height: 100%; outline: none; overflow-y: auto; position: relative;"
+      tabindex="0"
+    >
+      <div
+        data-viewport-type="element"
+        style="width: 100%; height: 100%; position: absolute; top: 0px;"
+      >
+        <div
+          data-test-id="virtuoso-item-list"
+          style="box-sizing: border-box; padding-top: 0px; padding-bottom: 0px; margin-top: 0px;"
+        >
+          <div
+            context="[object Object]"
+            data-index="0"
+            data-item-index="0"
+            data-known-size="0"
+            data-testid="item-1"
+          >
+            foo
+          </div>
+          <div
+            context="[object Object]"
+            data-index="1"
+            data-item-index="1"
+            data-known-size="0"
+            data-testid="item-2"
+          >
+            bar
+          </div>
+          <div
+            context="[object Object]"
+            data-index="2"
+            data-item-index="2"
+            data-known-size="0"
+            data-testid="item-3"
+          >
+            baz
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
