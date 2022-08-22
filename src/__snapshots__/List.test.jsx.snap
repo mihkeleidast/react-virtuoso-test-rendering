@@ -18,35 +18,7 @@ exports[`InfiniteList correctly renders items 1`] = `
         <div
           data-test-id="virtuoso-item-list"
           style="box-sizing: border-box; padding-top: 0px; padding-bottom: 0px; margin-top: 0px;"
-        >
-          <div
-            context="[object Object]"
-            data-index="0"
-            data-item-index="0"
-            data-known-size="0"
-            data-testid="item-1"
-          >
-            foo
-          </div>
-          <div
-            context="[object Object]"
-            data-index="1"
-            data-item-index="1"
-            data-known-size="0"
-            data-testid="item-2"
-          >
-            bar
-          </div>
-          <div
-            context="[object Object]"
-            data-index="2"
-            data-item-index="2"
-            data-known-size="0"
-            data-testid="item-3"
-          >
-            baz
-          </div>
-        </div>
+        />
       </div>
     </div>
   </div>
